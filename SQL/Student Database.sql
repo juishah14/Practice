@@ -41,4 +41,4 @@ LIMIT 5;
 
 SELECT *
 FROM student
-WHERE student_name IN ('Jui', 'Ria', 'Keyur', 'Aparna');
+WHERE student_name IN ('Jui', 'Ria');
