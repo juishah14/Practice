@@ -1,2 +1,2 @@
 ## Practice
-Just some practice
+Just some practice of SQL and Pandas
