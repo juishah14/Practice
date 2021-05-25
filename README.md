@@ -1,2 +1,2 @@
 ## Practice
-Just some basic practice of SQL and Pandas
+Just some basic practice of Pandas, NumPy, and SQL
